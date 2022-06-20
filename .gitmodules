@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "clusteredinterference"]
+	path = clusteredinterference
+	url = https://github.com/barkleybg/clusteredinterference
+	shallow = true
+	registered = true
